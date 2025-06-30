@@ -179,29 +179,5 @@
 - **Clinical Sepsis:** Rivers et al. (2001) - early goal-directed therapy establishing 6h intervention window
 - **Immune Paralysis:** Hotchkiss et al. (2013) - conceptual framework for sepsis immunosuppression
 
-## 🧩 Relevance to My Work
-
-```python
-### Key Overlaps with Project
-- **Shared Task Type:** Temporal immune profiling / Disease progression modeling / Multi-modal immune analysis
-- **Shared Methodology:** Single-cell RNA-seq, temporal sampling, functional pathway analysis
-- **Shared Data Type:** scRNA-seq, clinical correlation, immune cell profiling
-
-### What You Can Reuse or Build Upon
-- **Temporal analysis framework:** 6-hour sampling strategy for capturing dynamic changes
-- **Module scoring approach:** GO term-based pathway activity quantification
-- **Consensus cell typing:** Multi-method approach for robust cell type identification
-- **Clinical correlation methods:** Integration of transcriptomic and clinical data
-
-### What This Paper Lacks (That You Can Contribute)
-- **Larger Sample Size:** Statistical power for robust biomarker validation
-- **Mechanistic Validation:** Functional studies of identified pathways and targets
-- **Therapeutic Testing:** Intervention studies targeting identified mechanisms
-- **Multi-omic Integration:** Proteomics, metabolomics to complement transcriptomics
-
-### Potential for Citation or Collaboration
-- **Cite for:** Temporal scRNA-seq methodology, sepsis biomarker discovery, immune trajectory analysis
-- **Contact for:** Clinical sample collection protocols, bioinformatics pipeline details, biomarker validation approaches
-```
 ---
 *Note based on analysis of: Qiu et al. Dynamic changes in human single-cell transcriptional signatures during fatal sepsis. J Leukoc Biol. 2021;110:1253–1268.*

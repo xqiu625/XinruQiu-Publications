@@ -1,4 +1,4 @@
-# 2025-01-EphB2-Neuroinflammation-Journal_of_Neuroinflammation.md
+# 2025-06-EphB2-Neuroinflammation-Journal_of_Neuroinflammation.md
 
 ## 📊 Paper Metadata
 - **Title:** EphB2-mediated ephrin-B reverse signaling on microglia drives an anti-viral, but inflammatory and neurotoxic response associated with HIV

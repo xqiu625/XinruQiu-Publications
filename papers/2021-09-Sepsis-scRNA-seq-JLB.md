@@ -30,11 +30,6 @@
 - **Biomarker Discovery:** Identifies NAMPT as consistently upregulated in fatal cases but downregulated in survivors
 - **Clinical Correlation:** HLA-DR downregulation at T6 in fatal cases confirms immune suppression
 
-**Template value for your studies:**
-- Volcano plot design for differential expression visualization
-- Correlation analysis between metabolic and functional markers
-- Time-course analysis framework for immune state transitions
-
 ## 🔄 Key Scientific Insights
 
 ```python

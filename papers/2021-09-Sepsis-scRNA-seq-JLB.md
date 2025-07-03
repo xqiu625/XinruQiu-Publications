@@ -133,26 +133,6 @@
 - **Annotation:** Consensus-based cell type assignment
 ```
 
-## 🚀 Future Directions & Limitations
-```python
-### Potential Extensions
-- **Extended Timepoints:** 24h, 48h, and post-discharge sampling for recovery trajectories
-- **Larger Cohorts:** Multi-center validation with diverse sepsis etiologies
-- **Mechanistic Studies:** Functional validation of identified pathways and biomarkers
-- **Therapeutic Testing:** Targeting platelet dysfunction and immune paralysis
-
-### Current Limitations
-- **Sample Size:** 5 sepsis patients limits statistical power and generalizability
-- **Gram-negative Focus:** Results may not extend to Gram-positive or viral sepsis
-- **PBMC Limitation:** Neutrophils largely excluded due to technical constraints
-- **Gender Effects:** Small sample size prevents comprehensive gender analysis
-
-### Open Questions
-- Do these 6-hour signatures predict long-term outcomes in survivors?
-- Can therapeutic intervention modify these immune trajectories?
-- How do these patterns differ across sepsis etiologies and patient populations?
-```
-
 ## 📋 Implementation Checklist
 ```python
 ### For Reproducing Results

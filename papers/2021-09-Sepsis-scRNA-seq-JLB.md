@@ -17,12 +17,6 @@
 - **Disease Severity Correlation:** Clear progression of platelet dysfunction from healthy → survivor → non-survivor states
 - **COVID-19 Convergence:** Identifies shared platelet pathways between sepsis and severe COVID-19, suggesting common mechanisms
 
-**Design principles to mimic:**
-- Temporal boxplot comparisons (T0 vs T6) across patient groups
-- Pathway module scoring approach for functional interpretation
-- Statistical significance overlay with multiple comparison correction
-- Color-coded condition grouping for clear visual distinction
-
 ### Figure 5: [monocyte-immunosuppression.png]
 **Immunological excellence:**
 - **Dynamic Immunosuppression:** Captures the transition from hyperinflammation to immune paralysis within hours
